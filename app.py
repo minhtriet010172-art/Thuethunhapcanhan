@@ -1,4 +1,3 @@
-# Thuethunhapcanhan
 import streamlit as st
 st.image("Screenshot_2026-06-16-15-36-34-273_com.miui.gallery-edit.jpg")
 st.title("💰 ỨNG DỤNG TÍNH THUẾ THU NHẬP CÁ NHÂN - Nguyễn Minh Khoa")
