@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("Screenshot_2026-06-16-15-36-34-273_com.miui.gallery-edit.jpg")
+st.image("file_00000000f284720baf8de8f1e281f23b.png")
 st.title("💰 ỨNG DỤNG TÍNH THUẾ THU NHẬP CÁ NHÂN - Nguyễn Minh Khoa")
 
 thu_nhap = st.number_input(
